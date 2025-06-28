@@ -1,0 +1,12 @@
+
+body {
+    text-align: justify;
+    margin: 0;
+    padding: 450px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.date {
+    text-align: center;
+}
